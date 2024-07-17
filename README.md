@@ -1,14 +1,5 @@
 # Responsive Cactus Website
-## [Watch it on youtube](https://youtu.be/x9pm31GVduo)
-### Responsive Cactus Website
 
-- Responsive Cactus Website Design Using HTML CSS And JavaScript
-- Contains animations when scrolling.
-- Smooth scrolling in each section.
-- Contains an elegant dark theme.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+In this project, i am tring to practice what i have learned and if you want to see the real project [Watch this vedio on youtube](https://youtu.be/x9pm31GVduo)
 
-💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/@Bedimcode)
-
-![preview img](/preview.png)
+done by [ex-jandal](linktr.ee/ex.jandal)
